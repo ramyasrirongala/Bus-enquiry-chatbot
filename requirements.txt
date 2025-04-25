@@ -1,0 +1,10 @@
+
+streamlit
+google-generativeai
+speechrecognition
+pyttsx3
+pillow
+requests
+gtts
+pyaudio
+#pip install streamlit google-generativeai SpeechRecognition pyttsx3 pyaudio gTTS pipwin python-dotenv
